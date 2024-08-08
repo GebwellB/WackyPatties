@@ -1,2 +1,6 @@
-top bun
-bottom bun
+top bun  
+chicken pattie
+cheese
+lettuce
+mayonaise
+bottom bun  
