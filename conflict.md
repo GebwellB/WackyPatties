@@ -4,3 +4,4 @@
 4. After that, I merged the two and completed the pull request
 
 Screenshot of finished pull request:
+![Conflicts and Merge Requests](https://github.com/user-attachments/assets/2127aa6b-f691-4950-aabb-5cba200bec0d)
