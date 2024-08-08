@@ -1,6 +1,11 @@
-top bun    
+top bun
 chicken pattie  
 cheese  
 lettuce  
 mayonaise  
-bottom bun  
+lettuce  
+tomato  
+beef patty  
+17 pickles  
+BBQ sauce
+bottom bun
