@@ -1,4 +1,13 @@
 top bun
+chicken pattie  
+cheese  
+lettuce  
+mayonaise  
+lettuce  
+tomato  
+beef patty  
+17 pickles  
+BBQ sauce
 salt x1
 salt x2
 salt x3
